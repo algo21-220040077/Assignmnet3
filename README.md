@@ -10,6 +10,3 @@ The Assigmnet attempts to predict the future value of Bitcoins by identifying th
 1. Twitter Api to get the tweets about BitCoins/Cryptocurrencies.
 2. LinkedIn Api to get the corpus on blogs.
 3. Web Scraping to get data from News articles.
-
-## Dropbox link with data:
-https://www.dropbox.com/s/oy5zcf4aiorr0dr/Archive.zip?dl=0
